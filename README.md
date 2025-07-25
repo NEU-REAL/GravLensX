@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="images/GravLensX.gif" alt="GravLensX Demo"/>
+  <img src="images/GravLensX.gif" alt="GravLensX Demo" width="600" />
 </div>
 
 This codebase is the official implementation of **Learning Null Geodesics for Gravitational Lensing Rendering in General Relativity** published in ICCV 2025.
